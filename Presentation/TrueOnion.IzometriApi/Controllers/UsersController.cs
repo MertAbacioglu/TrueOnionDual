@@ -7,7 +7,7 @@ using TrueOnion.APPLICATION.Wrappers;
 using TrueOnion.DOMAIN.Entities.Concretes;
 using TrueOnion.INFRASTRUCTURE.INNER.Services;
 
-namespace TrueOnion.IzometriApi.Controllers
+namespace TrueOnionDual.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

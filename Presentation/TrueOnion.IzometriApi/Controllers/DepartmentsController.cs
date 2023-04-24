@@ -4,7 +4,7 @@ using TrueOnion.APPLICATION.Services;
 using TrueOnion.APPLICATION.Wrappers;
 using TrueOnion.DOMAIN.Entities.Concretes;
 
-namespace TrueOnion.IzometriApi.Controllers
+namespace TrueOnionDual.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

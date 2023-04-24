@@ -1,6 +1,6 @@
 ﻿using TrueOnion.PERSISTINCE.Middlewares;
 
-namespace TrueOnion.IzometriApi.Extensions
+namespace TrueOnionDual.Api.Controllers
 {
     public static class MiddlewareExtension
     {
